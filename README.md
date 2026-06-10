@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/broken-heartbeats-in-sync/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Broken Heartbeats In Sync](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-heartbeats-in-sync/) |
+| **Get License** | [Obtain a Music License for Broken Heartbeats In Sync](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-heartbeats-in-sync/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The moon is a spotlight, we're standing so close
+> I can feel the fire that nobody knows
+> A spark in the quiet, a slow-burning heat
+> Following the rhythm of the words we don't speak
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

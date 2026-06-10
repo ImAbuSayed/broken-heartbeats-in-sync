@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Broken Heartbeats In Sync
+
+This log tracks the cryptographic history and versioning for the song **Broken Heartbeats In Sync** (broken-heartbeats-in-sync).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T18:35:30.854380 | `v1` | `8e98f3aa19aa640e85b1aa84cd0b6c281982874299d9d209bdfbe5b42f0ede2a` | `67df057851c90ccffa9f2bf8756316cb808899d3dead87bc794b87493e5c551a` | `2026-06-10_broken-heartbeats-in-sync-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
